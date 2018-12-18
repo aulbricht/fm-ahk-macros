@@ -1,4 +1,7 @@
-﻿; Author:	Allen Ulbricht
+﻿;
+; Useful hotkeys for FileMaker Pro (Windows)
+;
+; Author:	Allen Ulbricht
 ; Website:	https://www.northcoastsoftware.com
 ; Github:	https://github.com/aulbricht/
 
