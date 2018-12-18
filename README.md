@@ -9,8 +9,11 @@ FileMaker Pro does not currently have native hotkeys for several advanced menus.
  
  > Data Viewer: "ctrl + shift + z"
 
+
 Windows-Specific:
-FMP Windows users don't have a hotkey for certain, useful calculation syntax symbols such as ≠, ≥, ≤, and ¶. On Mac, most of these are accessible by using alt + the base symbol, e.g. "alt + >" renders "≥". 
+FMP Windows users don't have a hotkey for certain, useful calculation syntax symbols such as ≠, ≥, ≤, and ¶. On Mac, most of these are accessible by using alt + the base symbol, e.g. "alt + >" renders "≥". I suggest adding them to you start menu so the hotkeys activate on boot-up. Open Explorer and paste the following into the location bar
+> %appdata%\Microsoft\Windows\Start Menu
+
 
 Mac:
 First of all, AutoHotKey does not run on Mac, so this file is useless. But that's okay because FMP on Mac already has most of the special-symbol hotkeys (e.g. "alt + =") natively, and it's very easy to add the other hotkeys above by going to: 
