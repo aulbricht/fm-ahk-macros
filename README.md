@@ -4,7 +4,9 @@ This set of basic hotkeys adds some sorely lacking hotkey functionality to FileM
 
 FileMaker Pro does not currently have native hotkeys for several advanced menus. If you access them often, these hotkeys will speed up your development significantly! Since native hotkeys for oft-access areas like Define Database and Script Workspace are both ctrl + shift and letters "d" and "s", respectively, I went with that theme and created the following additional hotkeys:
  > Custom Functions: "ctrl + shift + c"
+
  > Value Lists: "ctrl + shift + x"
+ 
  > Data Viewer: "ctrl + shift + z"
 
 Windows-Specific:
